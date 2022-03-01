@@ -1,7 +1,14 @@
-[![keelanstuart's github stats](https://github-readme-stats.vercel.app/api?username=keelanstuart&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Keelan Stuart's github stats](https://github-readme-stats.vercel.app/api?username=keelanstuart&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [![Keelan Stuart's resume](https://github.com/keelanstuart/keelanstuart/blob/master/resumehdr.png)](https://docs.google.com/document/d/18PdCAS9yhxQnmXEFwcnRnK53HrzvtGGwgJDKrpLKGsg)
 
+[Keelan Stuart's resume](https://docs.google.com/document/d/18PdCAS9yhxQnmXEFwcnRnK53HrzvtGGwgJDKrpLKGsg)
+
+
+
+I enjoy making useful things.
 <!--
 **keelanstuart/keelanstuart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
